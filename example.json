@@ -1,7 +1,7 @@
 [
   {
     "id": "469f9800-c45a-483f-b13e-bd24f3fb79f4",
-    "title": "Hardwood",
+    "title": "Head",
     "shape": "poly",
     "name": "1",
     "fillColor": "#ff000026",
@@ -61,7 +61,7 @@
   },
   {
     "id": "1db62daa-22a4-4b02-b5c0-fffdcf77c66c",
-    "title": "Carpet",
+    "title": "Neck",
     "shape": "poly",
     "name": "2",
     "fillColor": "#eab54d4d",
