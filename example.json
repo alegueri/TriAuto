@@ -4,7 +4,7 @@
     "title": "Hardwood",
     "shape": "poly",
     "name": "1",
-    "fillColor": "red",
+    "fillColor": "black",
     "strokeColor": "black",
     "coords": [
       196,
@@ -32,8 +32,8 @@
       90,
       ],
       [
-      164,
-      56,
+      221,
+      30,
       ],
       [
       198,
